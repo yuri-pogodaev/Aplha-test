@@ -35,16 +35,14 @@ out/
 
 ### VS Code ###
 .vscode/
-/DockerFile
-/settings.gradle
 /mvnw.cmd
 /mvnw
 /lombok.config
 /gradlew.bat
 /gradlew
-/build.gradle
 /.mvn/wrapper/MavenWrapperDownloader.java
 /.mvn/wrapper/maven-wrapper.properties
 /.mvn/wrapper/maven-wrapper.jar
 /gradle/wrapper/gradle-wrapper.properties
 /gradle/wrapper/gradle-wrapper.jar
+/pom.xml
